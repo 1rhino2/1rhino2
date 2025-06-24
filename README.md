@@ -20,17 +20,34 @@ Student, coder, tinkerer. Sometimes I break things (on purpose).
 
 _Last auto-update: 2025-06-24_
 
-| Name | Language | Description | Link |
-|------|----------|-------------|------|
-| Webhook-spammer | Python | I didnt bother to describe thiss. | [view](https://github.com/1rhino2/Webhook-spammer) |
-| Bluetooth-Scanner | D | I didnt bother to describe thiss. | [view](https://github.com/1rhino2/Bluetooth-Scanner) |
-| Exifremoval | Python | A fairly advanced pseudo exif recovery tool. | [view](https://github.com/1rhino2/Exifremoval) |
-| shadowexif | Python | Simple EXIF Metadata Removal Tool | [view](https://github.com/1rhino2/shadowexif) |
-| word-guess-game | C++ | Just a basic word guessing game. But! You don't know the words, not yet at least. | [view](https://github.com/1rhino2/word-guess-game) |
-| terminal-cpp-calculator | C++ | This is a basic C++ Calc, nothing too advanced. | [view](https://github.com/1rhino2/terminal-cpp-calculator) |
-| Proxy-Verifier-Scraper | Python | Scrapes proxies then verifies in working.txt | [view](https://github.com/1rhino2/Proxy-Verifier-Scraper) |
-| Ip-Info-Toolkit | Python | Simple Python OSINT tool to get the geolocation ISP and more from an IP | [view](https://github.com/1rhino2/Ip-Info-Toolkit) |
-| DLang-file-encryptor <br/><sub>(archived)</sub> | D | Eh, a bit too big for me: a DLang file encryptor that escalates privileges using CVE-2024-49138 and disables Windows Defender. | [view](https://github.com/1rhino2/DLang-file-encryptor) |
+### ⭐ Favorite: [shadowexif](https://github.com/1rhino2/shadowexif)  
+_Simple EXIF Metadata Removal Tool — it just works and I'm proud of it!_
+
+| Name | Language | Description | Repo | Issues | Pulls | Releases | README | |
+|------|----------|-------------|------|--------|-------|----------|--------|---|
+| shadowexif | Python | Simple EXIF Metadata Removal Tool | [Repo](https://github.com/1rhino2/shadowexif) | [Issues](https://github.com/1rhino2/shadowexif/issues) | [Pulls](https://github.com/1rhino2/shadowexif/pulls) | [Releases](https://github.com/1rhino2/shadowexif/releases) | [README](https://github.com/1rhino2/shadowexif#readme) | [PyPI](https://pypi.org/project/shadowexif/) |
+| Exifremoval | Python | A fairly advanced pseudo exif recovery tool. | [Repo](https://github.com/1rhino2/Exifremoval) | [Issues](https://github.com/1rhino2/Exifremoval/issues) | [Pulls](https://github.com/1rhino2/Exifremoval/pulls) | [Releases](https://github.com/1rhino2/Exifremoval/releases) | [README](https://github.com/1rhino2/Exifremoval#readme) |  |
+| Webhook-spammer | Python | I didnt bother to describe thiss. | [Repo](https://github.com/1rhino2/Webhook-spammer) | [Issues](https://github.com/1rhino2/Webhook-spammer/issues) | [Pulls](https://github.com/1rhino2/Webhook-spammer/pulls) | [Releases](https://github.com/1rhino2/Webhook-spammer/releases) | [README](https://github.com/1rhino2/Webhook-spammer#readme) |  |
+| Bluetooth-Scanner | D | I didnt bother to describe thiss. | [Repo](https://github.com/1rhino2/Bluetooth-Scanner) | [Issues](https://github.com/1rhino2/Bluetooth-Scanner/issues) | [Pulls](https://github.com/1rhino2/Bluetooth-Scanner/pulls) | [Releases](https://github.com/1rhino2/Bluetooth-Scanner/releases) | [README](https://github.com/1rhino2/Bluetooth-Scanner#readme) |  |
+| word-guess-game | C++ | Just a basic word guessing game. But! You don't know the words, not yet at least. | [Repo](https://github.com/1rhino2/word-guess-game) | [Issues](https://github.com/1rhino2/word-guess-game/issues) | [Pulls](https://github.com/1rhino2/word-guess-game/pulls) | [Releases](https://github.com/1rhino2/word-guess-game/releases) | [README](https://github.com/1rhino2/word-guess-game#readme) |  |
+| terminal-cpp-calculator | C++ | This is a basic C++ Calc, nothing too advanced. | [Repo](https://github.com/1rhino2/terminal-cpp-calculator) | [Issues](https://github.com/1rhino2/terminal-cpp-calculator/issues) | [Pulls](https://github.com/1rhino2/terminal-cpp-calculator/pulls) | [Releases](https://github.com/1rhino2/terminal-cpp-calculator/releases) | [README](https://github.com/1rhino2/terminal-cpp-calculator#readme) |  |
+| Proxy-Verifier-Scraper | Python | Scrapes proxies then verifies in working.txt | [Repo](https://github.com/1rhino2/Proxy-Verifier-Scraper) | [Issues](https://github.com/1rhino2/Proxy-Verifier-Scraper/issues) | [Pulls](https://github.com/1rhino2/Proxy-Verifier-Scraper/pulls) | [Releases](https://github.com/1rhino2/Proxy-Verifier-Scraper/releases) | [README](https://github.com/1rhino2/Proxy-Verifier-Scraper#readme) |  |
+| Ip-Info-Toolkit | Python | Simple Python OSINT tool to get the geolocation ISP and more from an IP | [Repo](https://github.com/1rhino2/Ip-Info-Toolkit) | [Issues](https://github.com/1rhino2/Ip-Info-Toolkit/issues) | [Pulls](https://github.com/1rhino2/Ip-Info-Toolkit/pulls) | [Releases](https://github.com/1rhino2/Ip-Info-Toolkit/releases) | [README](https://github.com/1rhino2/Ip-Info-Toolkit#readme) |  |
+| DLang-file-encryptor <br/><sub>(archived)</sub> | D | Eh, a bit too big for me: a DLang file encryptor that escalates privileges using CVE-2024-49138 and disables Windows Defender. | [Repo](https://github.com/1rhino2/DLang-file-encryptor) | [Issues](https://github.com/1rhino2/DLang-file-encryptor/issues) | [Pulls](https://github.com/1rhino2/DLang-file-encryptor/pulls) | [Releases](https://github.com/1rhino2/DLang-file-encryptor/releases) | [README](https://github.com/1rhino2/DLang-file-encryptor#readme) |  |
+
+---
+
+## 🖇️ More Links
+
+- [All my repos](https://github.com/1rhino2?tab=repositories)
+- [Starred repos](https://github.com/1rhino2?tab=stars)
+- [Gists](https://gist.github.com/1rhino2)
+- [My PyPI profile](https://pypi.org/user/1rhino2/)
+- [My GitHub profile](https://github.com/1rhino2)
+- [shadowexif on PyPI](https://pypi.org/project/shadowexif/)
+- [My README stats](https://github.com/1rhino2)
+- [shadowexif README with screenshots](https://github.com/1rhino2/shadowexif#readme)
+- [Exifremoval README (with usage)](https://github.com/1rhino2/Exifremoval#readme)
 
 ---
 
