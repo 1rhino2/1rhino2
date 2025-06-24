@@ -37,6 +37,18 @@ _Simple EXIF Metadata Removal Tool — it just works and I'm proud of it!_
 
 ---
 
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rhino2&layout=compact&theme=tokyonight)
+
+---
+
+## 📊 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1rhino2&theme=tokyo-night)
+
+---
+
 ## 🖇️ More Links
 
 - [All my repos](https://github.com/1rhino2?tab=repositories)
