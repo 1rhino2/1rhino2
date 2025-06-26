@@ -1,82 +1,141 @@
-# 👋 Hey, I’m 1rhino2
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/195818135?v=4" width="120" height="120" alt="avatar" style="border-radius:50%"/>
+</p>
+<h1 align="center"><b>Hey, I'm <span style="color:#A259FF;">1rhino2</span> 🦏</b></h1>
+<p align="center">
+  <b>Student · Coder · Tinkerer</b><br>
+  <i>New England, USA · Eastern Time</i>
+</p>
 
-🗺️ **New England, USA** | 🕒 Eastern Time  
-Student, coder, tinkerer. Sometimes I break things (on purpose).
+---
+
+<div align="center">
+  <a href="https://github.com/1rhino2?tab=repositories">
+    <img src="https://img.shields.io/badge/All%20Repos-24292F?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/1rhino2?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-FFD700?style=for-the-badge&logo=star" />
+  </a>
+  <a href="https://gist.github.com/1rhino2">
+    <img src="https://img.shields.io/badge/Gists-00B4D8?style=for-the-badge&logo=markdown" />
+  </a>
+  <a href="https://pypi.org/user/1rhino2/">
+    <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rhino2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="130">
+  <span style="color:#20212c">🦏</span>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1rhino2&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="170">
+</div>
 
 ---
 
 ## ⚡ About Me
 
-- 🧑‍💻 Python, D, C++, Go.
-- 🔐 Pentesting & CTFs (still learning!).
-- 🛠️ Projects = experiments, summer fun, late nights.
-- 🧩 Learning: x64 Assembly, Lua, sort of Haskell.
-- 🌱 Always learning.
-- *Not showing my THM/HTB till I can brag.*
+```yaml
+Languages: [Python, D, C++, Go]
+Learning: [x64 Assembly, Lua, Haskell]
+Interests: [Pentesting, CTFs, OSINT, Scripting, Random projects]
+Timezone: "Eastern Time (US)"
+FunFact: "Sometimes I break things (on purpose)"
+```
+- 🧑‍💻 &nbsp; I write code to learn, break, and build. <span style="color:#20212c">🦏</span>
+- 🔐 &nbsp; CTF rookie, pentest learner.
+- 🛠️ &nbsp; Projects = experiments, late-night ideas, and summer fun.
+- 🌱 &nbsp; Always learning.  
+- _Not showing THM/HTB till I earn it_  
 
 ---
 
-## 🚀 My Projects
+## 🚀 Interactive Portfolio
 
-_Last auto-update: 2025-06-24_
+<details open>
+<summary><strong>🌟 My Favorite</strong></summary>
 
-### ⭐ Favorite: [shadowexif](https://github.com/1rhino2/shadowexif)  
-_Simple EXIF Metadata Removal Tool — it just works and I'm proud of it!_
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> <a href="https://github.com/1rhino2/shadowexif"><b>shadowexif</b></a>
+> Simple EXIF Metadata Removal Tool. It just works and I'm proud of it!  
+> <a href="https://github.com/1rhino2/shadowexif/issues">Issues</a> ·
+> <a href="https://github.com/1rhino2/shadowexif/pulls">Pulls</a> ·
+> <a href="https://github.com/1rhino2/shadowexif/releases">Releases</a> ·
+> <a href="https://github.com/1rhino2/shadowexif#readme">README</a>
+<span style="color:#21222b">🦏</span>
+</details>
 
-| Name | Language | Description | Repo | Issues | Pulls | Releases | README | |
-|------|----------|-------------|------|--------|-------|----------|--------|---|
-| shadowexif | Python | Simple EXIF Metadata Removal Tool | [Repo](https://github.com/1rhino2/shadowexif) | [Issues](https://github.com/1rhino2/shadowexif/issues) | [Pulls](https://github.com/1rhino2/shadowexif/pulls) | [Releases](https://github.com/1rhino2/shadowexif/releases) | [README](https://github.com/1rhino2/shadowexif#readme) | [PyPI](https://pypi.org/project/shadowexif/) |
-| Exifremoval | Python | A fairly advanced pseudo exif recovery tool. | [Repo](https://github.com/1rhino2/Exifremoval) | [Issues](https://github.com/1rhino2/Exifremoval/issues) | [Pulls](https://github.com/1rhino2/Exifremoval/pulls) | [Releases](https://github.com/1rhino2/Exifremoval/releases) | [README](https://github.com/1rhino2/Exifremoval#readme) |  |
-| Webhook-spammer | Python | I didnt bother to describe thiss. | [Repo](https://github.com/1rhino2/Webhook-spammer) | [Issues](https://github.com/1rhino2/Webhook-spammer/issues) | [Pulls](https://github.com/1rhino2/Webhook-spammer/pulls) | [Releases](https://github.com/1rhino2/Webhook-spammer/releases) | [README](https://github.com/1rhino2/Webhook-spammer#readme) |  |
-| Bluetooth-Scanner | D | I didnt bother to describe thiss. | [Repo](https://github.com/1rhino2/Bluetooth-Scanner) | [Issues](https://github.com/1rhino2/Bluetooth-Scanner/issues) | [Pulls](https://github.com/1rhino2/Bluetooth-Scanner/pulls) | [Releases](https://github.com/1rhino2/Bluetooth-Scanner/releases) | [README](https://github.com/1rhino2/Bluetooth-Scanner#readme) |  |
-| word-guess-game | C++ | Just a basic word guessing game. But! You don't know the words, not yet at least. | [Repo](https://github.com/1rhino2/word-guess-game) | [Issues](https://github.com/1rhino2/word-guess-game/issues) | [Pulls](https://github.com/1rhino2/word-guess-game/pulls) | [Releases](https://github.com/1rhino2/word-guess-game/releases) | [README](https://github.com/1rhino2/word-guess-game#readme) |  |
-| terminal-cpp-calculator | C++ | This is a basic C++ Calc, nothing too advanced. | [Repo](https://github.com/1rhino2/terminal-cpp-calculator) | [Issues](https://github.com/1rhino2/terminal-cpp-calculator/issues) | [Pulls](https://github.com/1rhino2/terminal-cpp-calculator/pulls) | [Releases](https://github.com/1rhino2/terminal-cpp-calculator/releases) | [README](https://github.com/1rhino2/terminal-cpp-calculator#readme) |  |
-| Proxy-Verifier-Scraper | Python | Scrapes proxies then verifies in working.txt | [Repo](https://github.com/1rhino2/Proxy-Verifier-Scraper) | [Issues](https://github.com/1rhino2/Proxy-Verifier-Scraper/issues) | [Pulls](https://github.com/1rhino2/Proxy-Verifier-Scraper/pulls) | [Releases](https://github.com/1rhino2/Proxy-Verifier-Scraper/releases) | [README](https://github.com/1rhino2/Proxy-Verifier-Scraper#readme) |  |
-| Ip-Info-Toolkit | Python | Simple Python OSINT tool to get the geolocation ISP and more from an IP | [Repo](https://github.com/1rhino2/Ip-Info-Toolkit) | [Issues](https://github.com/1rhino2/Ip-Info-Toolkit/issues) | [Pulls](https://github.com/1rhino2/Ip-Info-Toolkit/pulls) | [Releases](https://github.com/1rhino2/Ip-Info-Toolkit/releases) | [README](https://github.com/1rhino2/Ip-Info-Toolkit#readme) |  |
-| DLang-file-encryptor <br/><sub>(archived)</sub> | D | Eh, a bit too big for me: a DLang file encryptor that escalates privileges using CVE-2024-49138 and disables Windows Defender. | [Repo](https://github.com/1rhino2/DLang-file-encryptor) | [Issues](https://github.com/1rhino2/DLang-file-encryptor/issues) | [Pulls](https://github.com/1rhino2/DLang-file-encryptor/pulls) | [Releases](https://github.com/1rhino2/DLang-file-encryptor/releases) | [README](https://github.com/1rhino2/DLang-file-encryptor#readme) |  |
+<details>
+<summary><strong>🗂️ All Repos (most recent 10)</strong></summary>
+
+| Name | Language | Description | ⭐ | Links |
+|------|----------|-------------|----|-------|
+| [shadowexif](https://github.com/1rhino2/shadowexif) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Simple EXIF Metadata Removal Tool | 2 | [Repo](https://github.com/1rhino2/shadowexif) |
+| [Quotemaker](https://github.com/1rhino2/Quotemaker) | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Quotemaker) |
+| [1rhino2](https://github.com/1rhino2/1rhino2) | <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"> | My profile repo | 0 | [Repo](https://github.com/1rhino2/1rhino2) |
+| [Exifrecover](https://github.com/1rhino2/Exifrecover) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | A fairly advanced pseudo exif recovery tool. | 0 | [Repo](https://github.com/1rhino2/Exifrecover) |
+| [Webhook-spammer](https://github.com/1rhino2/Webhook-spammer) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Webhook-spammer) |
+| [Bluetooth-Scanner](https://github.com/1rhino2/Bluetooth-Scanner) | <img src="https://img.shields.io/badge/D-0A9EDC?style=flat-square&logo=d&logoColor=white"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Bluetooth-Scanner) |
+| [word-guess-game](https://github.com/1rhino2/word-guess-game) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | Just a basic word guessing game. But! You don't know the words, not yet at least. | 0 | [Repo](https://github.com/1rhino2/word-guess-game) |
+| [terminal-cpp-calculator](https://github.com/1rhino2/terminal-cpp-calculator) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | This is a basic C++ Calc, nothing too advanced. | 0 | [Repo](https://github.com/1rhino2/terminal-cpp-calculator) |
+| [Proxy-Verifier-Scraper](https://github.com/1rhino2/Proxy-Verifier-Scraper) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Scrapes proxies then verifies in working.txt | 0 | [Repo](https://github.com/1rhino2/Proxy-Verifier-Scraper) |
+| [Ip-Info-Toolkit](https://github.com/1rhino2/Ip-Info-Toolkit) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Simple python OSINT tool for IP info | 0 | [Repo](https://github.com/1rhino2/Ip-Info-Toolkit) |
+
+<p align="right"><a href="https://github.com/1rhino2?tab=repositories"><b>→ See ALL my repositories!</b></a></p>
+<span style="color:#23232c">🦏</span>
+</details>
 
 ---
 
-## 📈 Most Used Languages
+## 🖇️ Quick Links
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rhino2&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/1rhino2?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-24292F?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/1rhino2?tab=stars"><img src="https://img.shields.io/badge/Starred-FFD700?style=for-the-badge&logo=star" /></a>
+  <a href="https://gist.github.com/1rhino2"><img src="https://img.shields.io/badge/Gists-00B4D8?style=for-the-badge&logo=markdown" /></a>
+  <a href="https://pypi.org/user/1rhino2/"><img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi" /></a>
+</p>
+<span style="color:#23232a">🦏</span>
 
----
-
-## 📊 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=1rhino2&theme=tokyo-night)
-
----
-
-## 🖇️ More Links
-
-- [All my repos](https://github.com/1rhino2?tab=repositories)
-- [Starred repos](https://github.com/1rhino2?tab=stars)
-- [Gists](https://gist.github.com/1rhino2)
-- [My PyPI profile](https://pypi.org/user/1rhino2/)
-- [My GitHub profile](https://github.com/1rhino2)
 - [shadowexif on PyPI](https://pypi.org/project/shadowexif/)
-- [My README stats](https://github.com/1rhino2)
-- [shadowexif README with screenshots](https://github.com/1rhino2/shadowexif#readme)
-- [Exifremoval README (with usage)](https://github.com/1rhino2/Exifremoval#readme)
+- [shadowexif README](https://github.com/1rhino2/shadowexif#readme)
+- [Exifrecover README](https://github.com/1rhino2/Exifrecover#readme)
 
 ---
 
 ## 🆒 5 Cool Things
 
-1. 🦞 Lobster rolls rule.
-2. 🍁 Autumn here is wild.
-3. ☁️ Four seasons in a week.
-4. 🫐 Blueberry pie is a must.
-5. 🌉 Covered bridges everywhere.
+<details>
+<summary>see cool facts 👀</summary>
+
+- 🦞 Lobster rolls rule.
+- 🍁 Autumn here is wild.
+- ☁️ Four seasons in a week.
+- 🫐 Blueberry pie is a must.
+- 🌉 Covered bridges everywhere.
+<span style="color:#23232a">🦏</span>
+</details>
 
 ---
 
-[![Weather](https://wttr.in/New+England_2F?format=3)](https://wttr.in/New+England)
-[![Time Zone: ET](https://img.shields.io/badge/Time_ET-1976D2?style=for-the-badge&logo=clockify)](https://time.is/ET)
+<div align="center">
+  <a href="https://wttr.in/New+England_2F?format=3">
+    <img src="https://wttr.in/New+England_2F?format=3" alt="Weather" />
+  </a>
+  <a href="https://time.is/ET">
+    <img src="https://img.shields.io/badge/Time_ET-1976D2?style=for-the-badge&logo=clockify" alt="Eastern Time" />
+  </a>
+</div>
 
 ---
 
-✨ Fun fact: I wasted time on this.  
-Stay curious & happy hacking! 🚀
+<p align="center">
+  <em>✨ Fun fact: I wasted time on this.<br>
+  Stay curious & happy hacking! 🚀 <span style="color:#23232c">🦏</span></em>
+</p>
+
+<!--
+Auto-updated: 2025-06-26.
+Only latest 10 repos shown. For more, see: https://github.com/1rhino2?tab=repositories
+-->
