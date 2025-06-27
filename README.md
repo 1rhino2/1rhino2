@@ -48,7 +48,7 @@ FunFact: "Sometimes I break things (on purpose)"
 - 🔐 &nbsp; CTF rookie, pentest learner.
 - 🛠️ &nbsp; Projects = experiments, late-night ideas, and summer fun.
 - 🌱 &nbsp; Always learning.  
-- _Not showing THM/HTB till I earn it_  
+- _Not showing THM/HTB till I can brag about it_  
 
 ---
 
@@ -132,7 +132,7 @@ FunFact: "Sometimes I break things (on purpose)"
 
 <p align="center">
   <em>✨ Fun fact: I wasted time on this.<br>
-  Stay curious & happy hacking! 🚀 <span style="color:#23232c">🦏</span></em>
+  Stay sigma, stay strapped or get yur ass clapped :D! 🚀 <span style="color:#23232c">🦏</span></em>
 </p>
 
 <!--
