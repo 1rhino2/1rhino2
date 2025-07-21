@@ -23,6 +23,10 @@
   <a href="https://pypi.org/user/1rhino2/">
     <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi" />
   </a>
+  <a href="https://1rhino2.github.io/">
+    <img src="https://img.shields.io/badge/Website-1rhino2.github.io-4CAF50?style=for-the-badge&logo=google-chrome" />
+  </a>
+</div>
 </div>
 
 <br>
