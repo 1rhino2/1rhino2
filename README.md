@@ -42,8 +42,8 @@
 ## ⚡ About Me
 
 ```yaml
-Languages: [Python, D, C++, Go, JS, The webdev crap,(I suck at css)]
-Learning: [x64 Assembly, Lua, Haskell, Rust]
+Languages: [Python, D, C++, Go, Node, Rust, The webdev crap,(I suck at css)]
+Learning: [x64 Assembly, Lua, Haskell]
 Interests: [Pentesting, CTFs, OSINT, Scripting, Random projects]
 Timezone: "Eastern Time (US)"
 FunFact: "Sometimes I break things (on purpose)"
