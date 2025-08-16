@@ -43,7 +43,8 @@
 
 ```yaml
 Languages: [Python, D, C++, Go, Node, Rust,  The webdev crap,(I suck at css)]
-Learning: [x64 Assembly, Lua, Haskell, R, Finally.... and java]
+Decent at: [Cobol, Lua,]
+Learning: [x64 Assembly, Haskell, R, Finally.... and java]
 Interests: [Pentesting, CTFs, OSINT, Scripting, Random projects, Exif data, Malware Dev]
 Timezone: "Eastern Time (US)"
 FunFact: "Sometimes I break things (on purpose)"
