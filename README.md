@@ -25,6 +25,7 @@
   </a>
   <a href="https://1rhino2.github.io/">
     <img src="https://img.shields.io/badge/Website-1rhino2.github.io-4CAF50?style=for-the-badge&logo=google-chrome" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user={1rhino2}"/>
   </a>
 </div>
 </div>
