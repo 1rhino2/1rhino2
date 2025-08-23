@@ -46,6 +46,7 @@
 Languages: [Python, D, C++, Go, Node, Rust,  The webdev crap,(I suck at css)]
 Decent at: [Cobol, Lua, x64 Assembly, R, C#]
 Learning: [Nim, Zig, Haskell, , Finally.... and java]
+Thinking about Learning: [Brainfuck, PHP, Swift, Kotlin, Perl.]
 Interests: [Pentesting, CTFs, OSINT, Scripting, Random projects, Exif data, Malware Dev]
 Timezone: "Eastern Time (US)"
 FunFact: "Sometimes I break things (on purpose)"
