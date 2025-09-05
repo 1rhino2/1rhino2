@@ -44,6 +44,7 @@
 
 ```yaml
 Languages: [Python, D, C++, Go, Node, Rust,  The webdev crap,(I suck at css)]
+Topics Besides CS that im good at: [Geolocation, Biology(Animal and Plant), Geography.
 Decent at: [Cobol, Lua, x64 Assembly, R, C#]
 Learning: [Nim, Zig, Haskell, , Finally.... and java]
 Thinking about Learning: [Brainfuck, PHP, Swift, Kotlin, Perl.]
