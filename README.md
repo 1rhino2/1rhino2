@@ -5,7 +5,8 @@
 <h1 align="center"><b>Hey, I'm <span style="color:#A259FF;">1rhino2</span> 🦏</b></h1>
 <p align="center">
   <b>Student · Coder · Tinkerer</b><br>
-  <i>New England, USA · Eastern Time</i>
+  <i>New England, USA · Eastern Time</i><br>
+  <i>wpfluxxy is a skid btw</i>
 </p>
 
 ---
@@ -25,9 +26,7 @@
   </a>
   <a href="https://1rhino2.github.io/">
     <img src="https://img.shields.io/badge/Website-1rhino2.github.io-4CAF50?style=for-the-badge&logo=google-chrome" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={1rhino2}"/>
   </a>
-</div>
 </div>
 
 <br>
@@ -52,6 +51,7 @@ Interests: [Pentesting, CTFs, OSINT, Scripting, Random projects, Exif data, Malw
 Timezone: "Eastern Time (US)"
 FunFact: "Sometimes I break things (on purpose)"
 ```
+
 - 🧑‍💻 &nbsp; I write code to learn, break, and build. <span style="color:#20212c">🦏</span>
 - 🔐 &nbsp; CTF rookie, pentest learner.
 - 🛠️ &nbsp; Projects = experiments, late-night ideas, and summer fun.
@@ -65,30 +65,36 @@ FunFact: "Sometimes I break things (on purpose)"
 <details open>
 <summary><strong>🌟 My Favorite</strong></summary>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> <a href="https://github.com/1rhino2/shadowexif"><b>shadowexif</b></a>
-> Simple EXIF Metadata Removal Tool. It just works and I'm proud of it!  
-> <a href="https://github.com/1rhino2/shadowexif/issues">Issues</a> ·
-> <a href="https://github.com/1rhino2/shadowexif/pulls">Pulls</a> ·
-> <a href="https://github.com/1rhino2/shadowexif/releases">Releases</a> ·
-> <a href="https://github.com/1rhino2/shadowexif#readme">README</a>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="18"/> <a href="https://github.com/1rhino2/RhinoWAF"><b>RhinoWAF</b></a>
+>
+> Fast, lightweight Web Application Firewall (WAF) for DDoS, XSS, SQLi, Layer 4/7 attacks. Open-source website & server security tool in Go.  
+> <a href="https://github.com/1rhino2/RhinoWAF/issues">Issues</a> ·
+> <a href="https://github.com/1rhino2/RhinoWAF/pulls">Pulls</a> ·
+> <a href="https://github.com/1rhino2/RhinoWAF/releases">Releases</a> ·
+> <a href="https://github.com/1rhino2/RhinoWAF#readme">README</a>
 <span style="color:#21222b">🦏</span>
 </details>
 
 <details>
-<summary><strong>🗂️ All Repos (most recent 10)</strong></summary>
+<summary><strong>🗂️ All Repos (31 public repos · most recent 15)</strong></summary>
 
 | Name | Language | Description | ⭐ | Links |
 |------|----------|-------------|----|-------|
-| [shadowexif](https://github.com/1rhino2/shadowexif) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Simple EXIF Metadata Removal Tool | 2 | [Repo](https://github.com/1rhino2/shadowexif) |
-| [Quotemaker](https://github.com/1rhino2/Quotemaker) | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Quotemaker) |
-| [1rhino2](https://github.com/1rhino2/1rhino2) | <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"> | My profile repo | 0 | [Repo](https://github.com/1rhino2/1rhino2) |
-| [Exifrecover](https://github.com/1rhino2/Exifrecover) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | A fairly advanced pseudo exif recovery tool. | 0 | [Repo](https://github.com/1rhino2/Exifrecover) |
-| [Webhook-spammer](https://github.com/1rhino2/Webhook-spammer) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Webhook-spammer) |
-| [Bluetooth-Scanner](https://github.com/1rhino2/Bluetooth-Scanner) | <img src="https://img.shields.io/badge/D-0A9EDC?style=flat-square&logo=d&logoColor=white"> | I didnt bother to describe thiss. | 0 | [Repo](https://github.com/1rhino2/Bluetooth-Scanner) |
-| [word-guess-game](https://github.com/1rhino2/word-guess-game) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | Just a basic word guessing game. But! You don't know the words, not yet at least. | 0 | [Repo](https://github.com/1rhino2/word-guess-game) |
-| [terminal-cpp-calculator](https://github.com/1rhino2/terminal-cpp-calculator) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | This is a basic C++ Calc, nothing too advanced. | 0 | [Repo](https://github.com/1rhino2/terminal-cpp-calculator) |
-| [Proxy-Verifier-Scraper](https://github.com/1rhino2/Proxy-Verifier-Scraper) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Scrapes proxies then verifies in working.txt | 0 | [Repo](https://github.com/1rhino2/Proxy-Verifier-Scraper) |
-| [Ip-Info-Toolkit](https://github.com/1rhino2/Ip-Info-Toolkit) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Simple python OSINT tool for IP info | 0 | [Repo](https://github.com/1rhino2/Ip-Info-Toolkit) |
+| [RhinoC2](https://github.com/1rhino2/RhinoC2) | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> | Command & Control framework | 1 | [Repo](https://github.com/1rhino2/RhinoC2) |
+| [1rhino2.github.io](https://github.com/1rhino2/1rhino2.github.io) | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> | My portfolio!!!! | 3 | [Repo](https://github.com/1rhino2/1rhino2.github.io) |
+| [Malware_Report](https://github.com/1rhino2/Malware_Report) | <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"> | This is my report on a malware i found circulating through discord. | 1 | [Repo](https://github.com/1rhino2/Malware_Report) |
+| [RhinoWAF](https://github.com/1rhino2/RhinoWAF) | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> | RhinoWAF – Fast, lightweight Web Application Firewall (WAF) for DDoS, XSS, SQLi, Layer 4/7 attacks. Open-source website & server security tool in Go. | 44 | [Repo](https://github.com/1rhino2/RhinoWAF) |
+| [Exifrecover](https://github.com/1rhino2/Exifrecover) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | A fairly advanced pseudo exif recovery tool. | 6 | [Repo](https://github.com/1rhino2/Exifrecover) |
+| [WebCamProtect](https://github.com/1rhino2/WebCamProtect) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | This project helps YOU defend your webcam from being spied on without you knowing | 0 | [Repo](https://github.com/1rhino2/WebCamProtect) |
+| [AnnoyingShitPost](https://github.com/1rhino2/AnnoyingShitPost) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Annoying shitpost tool | 1 | [Repo](https://github.com/1rhino2/AnnoyingShitPost) |
+| [UnobfuscatedExescript](https://github.com/1rhino2/UnobfuscatedExescript) | <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"> | Unobfuscated version of https://github.com/axsync/Zyx-Executor/blob/main/scripts/noclip.lua for free usage and implementation. | 4 | [Repo](https://github.com/1rhino2/UnobfuscatedExescript) |
+| [UDP-Flood](https://github.com/1rhino2/UDP-Flood) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | This is a basic udp flood script that can get lots of requests per second if network allows | 5 | [Repo](https://github.com/1rhino2/UDP-Flood) |
+| [terminal-cpp-calculator](https://github.com/1rhino2/terminal-cpp-calculator) | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"> | This is a basic C++ Calc, nothing too advanced. | 4 | [Repo](https://github.com/1rhino2/terminal-cpp-calculator) |
+| [MBRWIPER](https://github.com/1rhino2/MBRWIPER) | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> | MBR wiper research tool | 2 | [Repo](https://github.com/1rhino2/MBRWIPER) |
+| [NUKEBOT](https://github.com/1rhino2/NUKEBOT) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Nuke | 0 | [Repo](https://github.com/1rhino2/NUKEBOT) |
+| [solarwinds-sunburst-apt29](https://github.com/1rhino2/solarwinds-sunburst-apt29) | <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"> | My field notes on APT29's SUNBURST/SolarWinds campaign: what actually happened, how they evaded detection, what stood out, and actionable hunt/detection queries for security teams. | 0 | [Repo](https://github.com/1rhino2/solarwinds-sunburst-apt29) |
+| [Quotemaker](https://github.com/1rhino2/Quotemaker) | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> | Random motivational quote generator | 4 | [Repo](https://github.com/1rhino2/Quotemaker) |
+| [Proxy-Verifier-Scraper](https://github.com/1rhino2/Proxy-Verifier-Scraper) | <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"> | Scrapes proxies then verifies in working.txt | 5 | [Repo](https://github.com/1rhino2/Proxy-Verifier-Scraper) |
 
 <p align="right"><a href="https://github.com/1rhino2?tab=repositories"><b>→ See ALL my repositories!</b></a></p>
 <span style="color:#23232c">🦏</span>
@@ -106,8 +112,8 @@ FunFact: "Sometimes I break things (on purpose)"
 </p>
 <span style="color:#23232a">🦏</span>
 
-- [shadowexif on PyPI](https://pypi.org/project/shadowexif/)
-- [shadowexif README](https://github.com/1rhino2/shadowexif#readme)
+- [RhinoWAF on GitHub](https://github.com/1rhino2/RhinoWAF)
+- [RhinoWAF README](https://github.com/1rhino2/RhinoWAF#readme)
 - [Exifrecover README](https://github.com/1rhino2/Exifrecover#readme)
 
 ---
@@ -123,6 +129,7 @@ FunFact: "Sometimes I break things (on purpose)"
 - 🫐 Blueberry pie is a must.
 - 🌉 Covered bridges everywhere.
 <span style="color:#23232a">🦏</span>
+
 </details>
 
 ---
@@ -144,6 +151,7 @@ FunFact: "Sometimes I break things (on purpose)"
 </p>
 
 <!--
-Auto-updated: 2025-06-26.
-Only latest 10 repos shown. For more, see: https://github.com/1rhino2?tab=repositories
+Auto-updated: 2025-11-16.
+Public repos: 31 | Private repos: 6 | Total: 37
+Showing latest 15. For more, see: https://github.com/1rhino2?tab=repositories
 -->
