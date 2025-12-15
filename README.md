@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 Languages: [Python, D, C++, Go, Node, Rust,  The webdev crap,(I suck at css)]
@@ -52,18 +52,18 @@ Timezone: "Eastern Time (US)"
 FunFact: "Sometimes I break things (on purpose)"
 ```
 
-- 🧑‍💻 &nbsp; I write code to learn, break, and build. <span style="color:#20212c">🦏</span>
-- 🔐 &nbsp; CTF rookie, pentest learner.
-- 🛠️ &nbsp; Projects = experiments, late-night ideas, and summer fun.
-- 🌱 &nbsp; Always learning.  
+-  &nbsp; I write code to learn, break, and build. <span style="color:#20212c">🦏</span>
+-  &nbsp; CTF rookie, pentest learner.
+-  &nbsp; Projects = experiments, late-night ideas, and summer fun.
+-  &nbsp; Always learning.  
 - _Not showing THM/HTB till I can brag about it_  
 
 ---
 
-## 🚀 Interactive Portfolio
+##  Portfolio
 
 <details open>
-<summary><strong>🌟 My Favorite</strong></summary>
+<summary><strong> My Favorite</strong></summary>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="18"/> <a href="https://github.com/1rhino2/RhinoWAF"><b>RhinoWAF</b></a>
 >
@@ -76,7 +76,7 @@ FunFact: "Sometimes I break things (on purpose)"
 </details>
 
 <details>
-<summary><strong>🗂️ All Repos (31 public repos · most recent 15)</strong></summary>
+<summary><strong> All Repos (31 public repos · most recent 15)</strong></summary>
 
 | Name | Language | Description | ⭐ | Links |
 |------|----------|-------------|----|-------|
@@ -102,7 +102,7 @@ FunFact: "Sometimes I break things (on purpose)"
 
 ---
 
-## 🖇️ Quick Links
+## Quick Links
 
 <p align="center">
   <a href="https://github.com/1rhino2?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-24292F?style=for-the-badge&logo=github" /></a>
@@ -118,7 +118,7 @@ FunFact: "Sometimes I break things (on purpose)"
 
 ---
 
-## 🆒 5 Cool Things
+## 5 Cool Things
 
 <details>
 <summary>see cool facts 👀</summary>
@@ -146,7 +146,7 @@ FunFact: "Sometimes I break things (on purpose)"
 ---
 
 <p align="center">
-  <em>✨ Fun fact: I wasted time on this.<br>
+  <em> Fun fact: I wasted time on this.<br>
   Stay sigma, stay strapped or get yur ass clapped :D! 🚀 <span style="color:#23232c">🦏</span></em>
 </p>
 
